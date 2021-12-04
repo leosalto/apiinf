@@ -1,0 +1,24 @@
+{
+  "name": "apiinf",
+  "version": "1.0.0",
+  "description": "infinita",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosalto/apiinf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosalto/apiinf/issues"
+  },
+  "homepage": "https://github.com/leosalto/apiinf#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
